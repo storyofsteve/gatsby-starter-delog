@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
+  "title": "Katatsuke",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Newer",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Steve",
+    "description": "I'm so glad to rebuild my blog site through a new way of Jamstack. Hopefully I could get a great experience."
   }
 }
